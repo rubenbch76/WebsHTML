@@ -1,20 +1,12 @@
 /* IMPORTO LOS DEMAS CSS PARA TENERLO TODO ORDENADO */
-@import "./titulosh2.css";
+@import "./titulos-H/titulosh1.css";
+@import "./titulos-H/titulosh2.css";
+@import "./text-classes/text-classes.css";
 
 body {
     background-color: rgb(189, 189, 189);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 100%; 
-}
-
-h1 {
-    text-align: center;
-    font-size: 50px;
-}
-
-h2 {
-    color: white;
-    background: grey;
 }
 
 div {    
