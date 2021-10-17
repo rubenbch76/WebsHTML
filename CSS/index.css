@@ -1,0 +1,24 @@
+/* IMPORTO LOS DEMAS CSS PARA TENERLO TODO ORDENADO */
+@import "./titulosh2.css";
+@import "./articles-styles/articles-style.css";
+
+body {
+    background-color: rgb(189, 189, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+
+h2 {
+    color: white;
+    background: grey;
+}
+
+div {    
+    width: 600px;  
+    justify-content: center;
+}
+
+article {    
+    width: 600px;  
+    justify-content: center;
+}
